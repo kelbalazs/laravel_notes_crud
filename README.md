@@ -30,7 +30,9 @@ Before you begin, ensure you have met the following requirements:
    cd post-it-note-app
    ```
 
-3. Install PHP dependencies:
+3. Create .env file - cp .env.example .env
+
+4. Install PHP dependencies:
    ```
    composer install
    ```
